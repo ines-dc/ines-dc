@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ines-dc
-- 👀 I’m interested in becoming an IOS developer
-- 🌱 I’m currently learning Swift and Swift UI
-- 💞️ I’m looking to collaborate on creating my first app
+- 👀 I’m interested in Artifical Intelligence and Machine Learning
+- 🌱 I’m currently working on my skills in Machine Learning
 - 📫 How to reach me @inesricardette
 
 <!---
