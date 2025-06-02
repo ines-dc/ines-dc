@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ines-dc
 - 👀 I’m interested in Artifical Intelligence and Machine Learning
 - 🌱 I’m currently working on my skills in Machine Learning
-- 📫 How to reach me @inesricardette
 
 <!---
 ines-dc/ines-dc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
